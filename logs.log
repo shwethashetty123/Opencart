@@ -1,0 +1,114 @@
+[INFO ] 2025-03-02 19:26:25,719 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 19:26:29,202 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 19:28:27,543 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 19:28:30,930 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 19:28:30,959 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 19:29:41,282 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 19:29:44,332 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 19:29:44,359 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 19:31:52,650 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 19:31:55,841 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 19:31:55,876 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:01:48,675 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:01:51,970 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:01:51,988 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:06:58,759 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:07:01,692 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:07:01,712 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:07:30,448 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:07:33,480 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:07:33,499 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:09:36,078 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:09:39,726 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:09:39,751 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:09:48,989 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:09:51,878 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:09:51,879 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:11:12,907 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:11:14,317 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:11:16,099 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:11:16,121 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:11:17,075 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:11:17,076 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 20:26:10,427 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 20:26:13,474 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 20:26:13,498 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 22:09:48,783 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 22:09:51,272 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 22:09:51,284 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 22:10:28,719 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 22:10:31,377 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 22:10:31,390 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 22:51:40,252 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-02 22:51:42,793 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-02 22:51:42,808 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-02 22:51:53,034 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-02 22:52:04,510 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-02 22:53:57,462 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-02 22:54:46,548 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-02 22:54:47,982 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 10:29:34,585 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:29:37,348 TC3_LoginTestDDT.VerifyLogin() - Login Data driven testing completed
+[INFO ] 2025-03-03 10:29:37,360 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:29:48,862 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:30:11,112 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:32:17,953 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:32:20,610 TC3_LoginTestDDT.VerifyLogin() - Login Data driven testing completed
+[INFO ] 2025-03-03 10:32:20,622 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:32:32,314 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 10:32:54,960 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 13:43:57,492 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 13:43:59,835 TC3_LoginTestDDT.VerifyLogin() - Login Data driven testing completed
+[INFO ] 2025-03-03 13:43:59,841 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 13:44:11,043 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 13:44:32,981 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 14:04:39,997 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 14:04:42,977 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 14:04:42,993 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 14:05:23,078 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 14:05:25,838 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 14:05:25,854 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 14:05:34,591 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 14:05:36,263 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 14:11:44,209 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 14:11:47,354 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 14:11:47,370 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 14:11:56,377 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 14:11:57,895 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 14:14:04,999 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 14:14:07,862 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 14:14:07,880 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 14:14:16,851 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 14:14:18,418 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 14:14:46,603 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 14:14:48,200 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 17:46:12,646 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:46:14,733 TC3_LoginTestDDT.VerifyLogin() - Login Data driven testing completed
+[INFO ] 2025-03-03 17:46:14,739 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:46:26,043 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:46:48,155 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:55:09,414 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:55:10,963 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 17:57:07,000 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 17:57:09,622 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 17:57:09,641 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 17:57:18,199 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:57:19,720 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 17:57:53,348 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 17:57:56,153 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 17:57:56,166 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 17:58:04,899 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 17:58:06,369 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 18:08:42,137 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 18:08:53,664 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 18:09:15,622 TC3_LoginTestDDT.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 19:29:42,191 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 19:29:49,826 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 19:29:49,846 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 19:29:59,575 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 19:30:01,244 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-03 22:42:34,384 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-03 22:42:37,746 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-03 22:42:37,774 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-03 22:42:47,524 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-03 22:42:49,538 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
