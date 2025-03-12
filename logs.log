@@ -112,3 +112,15 @@
 [INFO ] 2025-03-03 22:42:37,774 TC1_Registration.Register() - Account created
 [INFO ] 2025-03-03 22:42:47,524 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
 [INFO ] 2025-03-03 22:42:49,538 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-07 18:51:30,315 TC1_Registration.Register() - ****Testcase execution strated
+[INFO ] 2025-03-07 18:51:34,202 TC1_Registration.Register() - ***Regiterd info entered***
+[INFO ] 2025-03-07 18:51:34,239 TC1_Registration.Register() - Account created
+[INFO ] 2025-03-07 18:51:45,526 TC2_LoginTest.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-07 18:51:47,750 TC2_LoginTest.VerifyLogin() - Login Test Execution finished
+[INFO ] 2025-03-12 17:37:50,733 TC4_OrderCamera.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-12 17:38:35,325 TC4_OrderCamera.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-12 17:38:37,324 TC4_OrderCamera.orderCamera() - Selection of a camera
+[INFO ] 2025-03-12 17:41:07,983 TC4_OrderCamera.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-12 17:41:10,028 TC4_OrderCamera.orderCamera() - Selection of a camera
+[INFO ] 2025-03-12 17:43:40,436 TC4_OrderCamera.VerifyLogin() - Login Test Execution startrd
+[INFO ] 2025-03-12 17:43:42,830 TC4_OrderCamera.orderCamera() - Selection of a camera

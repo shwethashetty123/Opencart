@@ -2,22 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-03T19:29:27 IST" name="Suite" finished-at="2025-03-03T19:30:01 IST" duration-ms="33754">
+  <suite started-at="2025-03-12T17:43:29 IST" name="Suite" finished-at="2025-03-12T17:43:45 IST" duration-ms="16018">
     <groups>
-      <group name="Master">
-        <method signature="TC1_Registration.Register()[pri:0, instance:testCases.TC1_Registration@4b8ee4de]" name="Register" class="testCases.TC1_Registration"/>
-        <method signature="TC2_LoginTest.VerifyLogin()[pri:0, instance:testCases.TC2_LoginTest@428640fa]" name="VerifyLogin" class="testCases.TC2_LoginTest"/>
-      </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC1_Registration.Register()[pri:0, instance:testCases.TC1_Registration@4b8ee4de]" name="Register" class="testCases.TC1_Registration"/>
-      </group> <!-- Sanity -->
-      <group name="Regression">
-        <method signature="TC2_LoginTest.VerifyLogin()[pri:0, instance:testCases.TC2_LoginTest@428640fa]" name="VerifyLogin" class="testCases.TC2_LoginTest"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-03-03T19:29:27 IST" name="Test" finished-at="2025-03-03T19:30:01 IST" duration-ms="33754">
-      <class name="testCases.TC1_Registration">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC1_Registration@4b8ee4de]" started-at="2025-03-03T19:29:27 IST" name="setup" finished-at="2025-03-03T19:29:42 IST" duration-ms="14276" status="PASS">
+    <test started-at="2025-03-12T17:43:29 IST" name="Test" finished-at="2025-03-12T17:43:45 IST" duration-ms="16018">
+      <class name="testCases.TC4_OrderCamera">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC4_OrderCamera@47d9a273]" started-at="2025-03-12T17:43:30 IST" name="setup" finished-at="2025-03-12T17:43:40 IST" duration-ms="10236" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -28,36 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Register()[pri:0, instance:testCases.TC1_Registration@4b8ee4de]" started-at="2025-03-03T19:29:42 IST" name="Register" finished-at="2025-03-03T19:29:49 IST" duration-ms="7701" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Register -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC1_Registration@4b8ee4de]" started-at="2025-03-03T19:29:49 IST" name="teardown" finished-at="2025-03-03T19:29:50 IST" duration-ms="213" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC1_Registration -->
-      <class name="testCases.TC2_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC2_LoginTest@428640fa]" started-at="2025-03-03T19:29:50 IST" name="setup" finished-at="2025-03-03T19:29:59 IST" duration-ms="9462" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="VerifyLogin()[pri:0, instance:testCases.TC2_LoginTest@428640fa]" started-at="2025-03-03T19:29:59 IST" name="VerifyLogin" finished-at="2025-03-03T19:30:01 IST" duration-ms="1670" status="PASS">
+        <test-method signature="VerifyLogin()[pri:0, instance:testCases.TC4_OrderCamera@47d9a273]" started-at="2025-03-12T17:43:40 IST" name="VerifyLogin" finished-at="2025-03-12T17:43:42 IST" duration-ms="2391" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC2_LoginTest@428640fa]" started-at="2025-03-03T19:30:01 IST" name="teardown" finished-at="2025-03-03T19:30:01 IST" duration-ms="190" status="PASS">
+        <test-method signature="orderCamera()[pri:0, instance:testCases.TC4_OrderCamera@47d9a273]" started-at="2025-03-12T17:43:42 IST" name="orderCamera" finished-at="2025-03-12T17:43:45 IST" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderCamera -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC4_OrderCamera@47d9a273]" started-at="2025-03-12T17:43:45 IST" name="teardown" finished-at="2025-03-12T17:43:45 IST" duration-ms="381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC2_LoginTest -->
+      </class> <!-- testCases.TC4_OrderCamera -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
